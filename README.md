@@ -1,12 +1,6 @@
 # revolution-
 It's a public move . commit  Questions of a contributor . push some awesomeness
 
-
-<p align="center">
-  <img src="assets/logo.png" />
-  <img src="assets/cover1.png" width="500px" height="500px"/>
-</p>
-
 ## :rotating_light: Warning
 - Request only genuine PR's as given in the Instruction
 - Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
