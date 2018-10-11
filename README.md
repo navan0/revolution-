@@ -1,5 +1,5 @@
 # revolution-
-It's a public move . commit  Questions of a contributor . push some awesomeness
+This is a public move . commit  Questions of a contributor . push some awesomeness
 
 
 ## :computer: Getting Started
