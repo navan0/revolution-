@@ -7,4 +7,6 @@ a hello world program using python
 ```markdown
 find sum of 2 numbers using python
 ```
-
+## question no 3
+```markdown
+find factorial of a number
