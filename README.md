@@ -23,7 +23,7 @@ git checkout -b my-new-branch
 - Commit and push
 
 ```markdown
-git add .
+git add -A
 git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
