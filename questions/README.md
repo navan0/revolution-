@@ -14,3 +14,7 @@ find factorial of a number
 ## question no 4
 ```markdown
 find prime numbers
+## questions no 5
+``` markdown
+perform basic mathematical operations using python
+```
