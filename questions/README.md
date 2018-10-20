@@ -16,3 +16,6 @@ bubble sort
 ## question no 5
 ```markdown
 find greatest of two numbers using python
+## question no 6
+```markdown
+find even or odd
