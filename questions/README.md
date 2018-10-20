@@ -24,8 +24,7 @@ bubble sort
 
 ## question no 5
 ```markdown
-find greatest of two numbers using python
-```
+find greatest of two numbers
 
 ## question no 6
 ```markdown
