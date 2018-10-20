@@ -38,5 +38,5 @@ find prime numbers
 
 ## question no 8
 ```markdown
-perform basic mathematical operations using python
+perform basic mathematical operations
 ```
