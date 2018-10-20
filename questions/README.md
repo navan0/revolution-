@@ -13,3 +13,6 @@ find factorial of a number
 ## question no 4
 ```markdown
 bubble sort
+## question no 5
+```markdown
+find greatest of two numbers using python
