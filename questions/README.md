@@ -19,3 +19,12 @@ find greatest of two numbers using python
 ## question no 6
 ```markdown
 find even or odd
+```
+## question no 7
+```markdown
+find prime numbers
+```
+## question no 8
+```markdown
+perform basic mathematical operations using python
+```
