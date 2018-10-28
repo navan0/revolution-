@@ -11,7 +11,7 @@ def bubble_sort(arr):
 if __name__ == "__main__":
     length = int(input("length=:\n"))
     arr = []
-    print("Enter elements:")
+    print("elements=:")
     for i in range(length):
         arr.append(int(input()))
 
