@@ -9,7 +9,7 @@ def bubble_sort(arr):
 
 
 if __name__ == "__main__":
-    length = int(input("Enter the length:\n"))
+    length = int(input("length=:\n"))
     arr = []
     print("Enter elements:")
     for i in range(length):
