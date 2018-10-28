@@ -38,3 +38,7 @@ find prime numbers
 ```markdown
 perform basic mathematical operations
 ```
+## question no 9
+```markdown
+selection sort
+```
