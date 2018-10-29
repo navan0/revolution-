@@ -42,3 +42,7 @@ perform basic mathematical operations
 ```markdown
 selection sort
 ```
+## question no 9
+```markdown
+linear search
+```
