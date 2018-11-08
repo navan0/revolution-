@@ -1,8 +1,8 @@
 def factorial(n):
-   if n == 1 :
-         return n
+   if m == 1 :
+         return m
    else:
-         return (n*factorial(n-1))
+         return (m*factorial(m-1))
  num=int(input("enter number:"))
  print("Factorial:")
- print(factorial(n))
+ print(factorial(m))

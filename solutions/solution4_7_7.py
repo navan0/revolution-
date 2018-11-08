@@ -1,6 +1,6 @@
-def prime_numbers(limit):
+def prime_numbers(lmt):
     primes = [2]
-    for i in range(3, limit+1):
+    for i in range(3, lmt+1):
         is_prime = True
         for p in primes:
             if i % p == 0:
@@ -14,5 +14,5 @@ def prime_numbers(limit):
 
 
 if __name__ == "__main__":
-    limit = int(input())
-    print(prime_numbers(limit))
+    lmt = int(input())
+    print(prime_numbers(lmt))
