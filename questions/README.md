@@ -46,3 +46,7 @@ selection sort
 ```markdown
 binary search
 ```
+## question no 10
+```markdown
+buble sort
+```
