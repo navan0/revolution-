@@ -40,9 +40,13 @@ perform basic mathematical operations
 ```
 ## question no 9.
 ```markdown
-selection sort
+do a selection sort
 ```
-## question no 9
+## question no 10
 ```markdown
-binary search
+do a binary search
+```
+## question no 11
+```markdown
+what is lambda function
 ```
